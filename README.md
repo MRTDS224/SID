@@ -57,7 +57,7 @@ SID_BeniMellal/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/SID_BeniMellal.git
+git clone https://github.com/MRTDS224/SID_BeniMellal.git
 cd SID_BeniMellal
 ```
 
@@ -174,10 +174,6 @@ The Power BI report (`sid.pbix`) includes:
 | **License** | Public data — HCP Morocco |
 
 ---
-
-## 📝 License
-
-This project is distributed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
 
