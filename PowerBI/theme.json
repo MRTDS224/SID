@@ -1,0 +1,27 @@
+{ 
+
+  "name": "SID Béni Mellal-Khénifra", 
+
+  "dataColors": [ 
+
+    "#C1272D", "#1A3A5C", "#00B894", "#F39C12", 
+
+    "#A78BFA", "#FB923C", "#34D399", "#3B82F6" 
+
+  ], 
+
+  "background": "#FFFFFF", 
+
+  "foreground": "#1A3A5C", 
+
+  "tableAccent": "#C1272D", 
+
+  "visualStyles": { 
+
+    "*": { "*": { "background": [{"color": {"solid": {"color": "#F8FAFC"}}}], 
+
+                     "border": [{"show": true}] } } 
+
+  } 
+
+} 
